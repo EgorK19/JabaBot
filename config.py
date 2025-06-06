@@ -1,7 +1,7 @@
-CHAT_ID = '-1002643495581'  # ID чата для модерации
-MOD_CHAT_ID = '-1002687953805'  # ID чата модераторов
-BOT_TOKEN = '7737428651:AAExUTw_1ZScU2YSOkuwIaLxvrvQnmVgN8s' # токен бота
-MODERATOR_IDS = [1087968824]
+CHAT_ID = ''  # ID чата для модерации
+MOD_CHAT_ID = ''  # ID чата модераторов
+BOT_TOKEN = '' # токен бота
+MODERATOR_IDS = []
 
 # Параметры обнаружения спама
 SPAM_MESSAGE_LIMIT = 10
